@@ -40,3 +40,12 @@ $PATH_FILE_TO_PROCESS = 'FileDaElaborare';
 $PATH_FILE_PROCESSED = 'FileElaborati';
 ```
 
+## What is a pattern and how can i create one?
+
+The script use the patterns as mask to intercept data, in the pattern you insert things like where a data is positioned and where it should be stored.
+You can see an example in [patterns.php](patterns.php). In the example all keys are documented so you can understand what to do.
+
+## It's time to start the script
+
+From now, you can start the script, just use the php command and let the magic happen. :dizzy:
+
